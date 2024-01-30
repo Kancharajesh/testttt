@@ -1,0 +1,27 @@
+Home page
+
+Grocery=img[alt='Grocery']
+Mobiles=img[alt='Mobiles']
+
+a1=img[class='_396cs4']
+
+Buynow=button[class='_2KpZ6l _2U9uOA _3v1-ww']
+
+pincode=button[class='_2MMH-I']
+
+change=(//label[@class='_2iDkf8 t0pPfW'])[1]
+enterpincode=input[class='_3gwHKm']
+pincodesumbit=div[class='_3uzwpU']
+
+placeorder=button[class='_2KpZ6l _2ObVJD _3AWRsL']
+Mobilenumber=input[type='text']
+Mobilenumbersubmit=button[type='submit']
+otp=input[class='_2IX_2- _3mctLh _17N0em']
+login=button[type='submit']
+
+find=//div[@class='_1kidPb']
+
+
+
+//amazon
+id=searchDropdownBox
